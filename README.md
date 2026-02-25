@@ -1,4 +1,4 @@
-# Hi there, I'm Somil Singh! 👋
+# Hi there, I'm Prinsu Kumar! 👋
 
 🚀 AI & Full-Stack Developer | Building scalable apps with React, Node.js, and Generative AI  
 💡 Passionate about solving real-world problems through clean code and innovative AI solutions  
