@@ -25,7 +25,6 @@ I'm an enthusiastic developer with a strong foundation in full-stack development
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -38,20 +37,16 @@ I'm an enthusiastic developer with a strong foundation in full-stack development
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/microservices-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud-%23000000.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
@@ -86,9 +81,6 @@ I'm an enthusiastic developer with a strong foundation in full-stack development
 
 - 🥇 **Ranked 16th** on GeeksforGeeks College Leaderboard (10,000+ participants).
 - 💻 Solved **300+ DSA problems**; improved problem-solving efficiency by **40%** in 6 months.
-- 🎨 Developed an **AI virtual clothes try-on prototype** (Hackathon 2025) – top **10%** recognition.
-- 📜 **Data Science and Analysis Certification** – HP Life (Nov 2024); 20+ hours training.
-
 ---
 
 ## 📫 Let's Connect
@@ -96,7 +88,7 @@ I'm an enthusiastic developer with a strong foundation in full-stack development
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-singh) <!-- Add your LinkedIn profile URL -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somilsingh597@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prinsu-kumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com) <!-- Add if you have one -->
+ <!-- Add if you have one -->
 
 ---
 
