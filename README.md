@@ -85,7 +85,7 @@ I'm an enthusiastic developer with a strong foundation in full-stack development
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-singh) <!-- Add your LinkedIn profile URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/somil-singh](https://www.linkedin.com/in/prinsu-kumar-91a171270/)) <!-- Add your LinkedIn profile URL -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somilsingh597@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prinsu-kumar)
  <!-- Add if you have one -->
