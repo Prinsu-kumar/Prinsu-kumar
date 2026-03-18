@@ -52,13 +52,13 @@ I'm an enthusiastic developer with a strong foundation in full-stack development
 
 ## 📌 Featured Projects
 
-### [Code Master - Generative AI Chatbot](https://github.com/Prinsu-kumar/code-master) (Aug 2025)
+### [Code Master - Generative AI Chatbot](https://github.com/Prinsu-kumar/Coder_Instructor_Chatbot) (Aug 2025)
 **Tech:** React.js, Node.js, Gemini API, MongoDB, JWT  
 - Built a Generative AI programming assistant that reduces debugging time by **20%** via intelligent code suggestions powered by Gemini API.  
 - Designed RESTful APIs with scalable architecture handling **500+ concurrent users** at **99% uptime**.  
 - Implemented secure JWT authentication and CI/CD practices supporting **500+ active users**.
 
-### [AIGoPlus - Competitive Coding Platform](https://github.com/Prinsu-kumar/aigoplus) (Sep 2025)
+### [AIGoPlus - Competitive Coding Platform](https://github.com/Prinsu-kumar/AlGoPlus) (Sep 2025)
 **Tech:** React.js, Node.js, Express.js, MongoDB, Docker, Microservices  
 - Engineered full-stack platform with **300+ DSA problems** across 15 categories, attracting **1,000+ monthly active users**.  
 - Developed Docker-based code execution engine with cloud-ready deployment, supporting C++, Java, Python at **<2s response time**.  
