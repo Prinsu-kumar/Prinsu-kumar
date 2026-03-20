@@ -11,7 +11,7 @@
 
 ### Full Stack Developer · AI Engineer · Competitive Programmer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+MERN+stack+applications;Integrating+Generative+AI+%26+LLMs;300%2B+DSA+problems+solved;Ranked+16th+%2F+10%2C000%2B+on+GeeksforGeeks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+MERN+stack+applications;Integrating+Generative+AI+%26+LLMs;300%2B+DSA+problems+solved)](https://git.io/typing-svg)
 
 <br/>
 
